@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/RAEcommercerepo/!svn/ver/2688/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator
+END
+ShopInventoryAPICommunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/RAEcommercerepo/!svn/ver/2321/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator/ShopInventoryAPICommunicator.java
+END
+ShopGetAPICommunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/RAEcommercerepo/!svn/ver/2321/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator/ShopGetAPICommunicator.java
+END
+ShopShippingAPICommunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/RAEcommercerepo/!svn/ver/2321/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator/ShopShippingAPICommunicator.java
+END
+APICommunicatorClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/RAEcommercerepo/!svn/ver/2321/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator/APICommunicatorClient.java
+END
+RestAPICaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/RAEcommercerepo/!svn/ver/2328/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator/RestAPICaller.java
+END
+CampaignFindAPICommunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/RAEcommercerepo/!svn/ver/2630/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator/CampaignFindAPICommunicator.java
+END
+ExternalAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/RAEcommercerepo/!svn/ver/2238/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator/ExternalAPI.java
+END
+MerchandiseGetAPICommunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/RAEcommercerepo/!svn/ver/2321/Rakuten_Global_Ecommerce/Source/Rakuten_Mercury/trunk/checkoutapi/src/main/java/com/rakuten/gep/checkout/api/apicommunicator/MerchandiseGetAPICommunicator.java
+END
